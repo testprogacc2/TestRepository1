@@ -3,3 +3,5 @@ THis are User1 changes.
 This is new line
 THis is User1
 THis are User2 changes.
+
+There are new changes that needs to be reverted.
